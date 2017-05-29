@@ -1,0 +1,16 @@
+div span .glyphicon .glyphicon-menu-hamburguer{
+  color: grey;
+}
+header div ul a{
+  color: black;
+}
+header div ul a:hover{
+  text-decoration-line: none;
+  color: #f7b617;
+}
+
+#registro{
+  background: #f7b617;
+  color: #fff;
+  
+  }
