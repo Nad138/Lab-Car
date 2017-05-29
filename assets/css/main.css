@@ -9,8 +9,11 @@ header div ul a:hover{
   color: #f7b617;
 }
 
-#registro{
+.lab {
   background: #f7b617;
   color: #fff;
-  
-  }
+}
+
+#info div .col-md-10 {
+  border: white 1px solid;
+}
