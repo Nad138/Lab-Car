@@ -1,3 +1,6 @@
+##  Créditos
+ * Squad #### Rocker Souls 
+
 # LAB-CAR
 - Labcar es una empresa de Taxis que te permite pedir un taxi cuando quieras y en donde quieras.
 - Tenemos una gran cantidad de conductores por todo el departamento.
