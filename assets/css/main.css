@@ -1,6 +1,4 @@
-div span .glyphicon .glyphicon-menu-hamburguer{
-  color: grey;
-}
+
 header div ul a{
   color: black;
 }
@@ -8,12 +6,30 @@ header div ul a:hover{
   text-decoration-line: none;
   color: #f7b617;
 }
-
-.lab {
+header,
+#info p,
+#conduce button,
+#conduce p{
+  font-family: "Open Sans", sans-serif;
+}
+.lab{
   background: #f7b617;
   color: #fff;
+}
+#registro,
+#info h2,
+#conduce h1{
+  font-family: "Raleway", sans-serif;
 }
 
 #info div .col-md-10 {
   border: white 1px solid;
+}
+
+.btn-warning{
+  background: #f7b617;
+}
+#map{
+  height: 400px;
+  width: 80%;
 }
